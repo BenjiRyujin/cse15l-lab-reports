@@ -19,5 +19,17 @@ Once VScode is opened, open the terminal by selecting the option or by using hol
 command is typed in the terminal, click ENTER on your keyboard and you will be prompted with a password. Please type in your corresponding password
 in the command line. (Note: for privacy protection, you will not be able to see your password as you are typing it). 
 
+![Image](Screenshot 2023-04-07 at 4.31.16 PM.png)
+
+If instead of prompting a password, the terminal states something like 
+
+"The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? "
+
+Then it would be your first time connecting to the server! If it is indeed your first time, you can type "yes" and you will then be prompted with a password to enter.
+
+Once your password is successfully entered, your terminal should output some messages like this:
+
 
 
