@@ -7,4 +7,7 @@ lead you to https://code.visualstudio.com/. The website should look like this.
 
 ![Image](Screenshot 2023-04-07 at 4.10.51 PM.png)
 
-fjdaksl;
+From here, you can download VScode regardless of your operating system, as long as you select the appropriate option. Follow the installation process
+that the application provides and open up VScode! If properly downloaded, it should look something like this. 
+
+
