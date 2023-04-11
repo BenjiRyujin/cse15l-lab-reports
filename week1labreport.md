@@ -31,5 +31,14 @@ Then it would be your first time connecting to the server! If it is indeed your 
 
 Once your password is successfully entered, your terminal should output some messages like this:
 
+![Image](Screenshot 2023-04-10 at 5.45.32 PM.png)
+
+
+**Trying Some Commands**
+
+After successfully connecting to the server remotely, try testing various commands to see their effect and whether they work or not. These commands include "cd", "ls", "cp", and "cat", which are various terminal commands that help you find certain files or folders in directories stored in the computer. The different functions of popular terminal commands such as those listed above can be found on the website: https://towardsdatascience.com/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e. 
+
+An example of various commands can be seen in the image below.
+
 
 
