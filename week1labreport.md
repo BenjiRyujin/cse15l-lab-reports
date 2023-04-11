@@ -40,5 +40,7 @@ After successfully connecting to the server remotely, try testing various comman
 
 An example of various commands can be seen in the image below.
 
+![Image](Screenshot 2023-04-10 at 5.52.43 PM.png)
 
+To log out of the remote server, you can either type "exit" into your terminal or use the command "CTRL + D" on your keyboard.
 
