@@ -44,5 +44,5 @@ An example of various commands can be seen in the image below.
 
 In blue is all of the various student accounts held in the cs15sp23l directory on the remote computer. (`cd public`) leads us to change our directory to the "public" directory, which has files that can be seen with (`ls`). The (`cat`) command allows us to view the contents of specific files, in which we test out with (`cat README.instructor`), which carries the text in the image. 
 
-To log out of the remote server, you can either type "exit" into your terminal or use the command "CTRL + D" on your keyboard.
+To log out of the remote server, you can either type (`exit`) into your terminal or use the command "CTRL + D" on your keyboard.
 
