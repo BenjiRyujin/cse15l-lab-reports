@@ -16,8 +16,8 @@ When another string is typed into the query, the same methods specified in the f
 
 **Part 2**
 
-(`@Test<br/>
-  public void testAverageWithoutLowest(){\
-    double[] input1 = {2,2,3,4};\
-    assertEquals(3.0, ArrayExamples.averageWithoutLowest(input1),0);\
+(`@Test <br/>
+  public void testAverageWithoutLowest(){ <br/>
+    double[] input1 = {2,2,3,4};
+    assertEquals(3.0, ArrayExamples.averageWithoutLowest(input1),0);
   }`)
