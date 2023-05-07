@@ -26,8 +26,21 @@ For the testAverageWithoutLowest method, there would be an unexpected outcome wh
 When the test was run, the following message would be reported:
 
 ```
-java.lang.AssertionError: expected:[2.75] but was:[3.0]
- at ArrayTests.testAverageWithoutLowest(ArrayTests.java:30)
+benjiryujin@MacBook-Pro-90 lab3 % java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
+JUnit version 4.13.2
+.E..
+Time: 0.012
+There was 1 failure:
+1) testAverageWithoutLowest(ArrayTests)
+java.lang.AssertionError: expected:<2.75> but was:<3.0>
+        at org.junit.Assert.fail(Assert.java:89)
+        at org.junit.Assert.failNotEquals(Assert.java:835)
+        at org.junit.Assert.assertEquals(Assert.java:555)
+        at org.junit.Assert.assertEquals(Assert.java:685)
+        at ArrayTests.testAverageWithoutLowest(ArrayTests.java:29)
+
+FAILURES!!!
+Tests run: 3,  Failures: 1
 ```
 
 On the other hand, arrays where the lowest values were unique (where there would not be any multiple lowest values) reported expected outcomes. 
