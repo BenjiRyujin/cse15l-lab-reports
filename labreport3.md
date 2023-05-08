@@ -126,7 +126,7 @@ The `--include` option isn't limited to checking file type, though that is one o
 benjiryujin@MacBook-Pro-90 plos % grep --include "pmed*" "teacher" * 
 pmed.0010022.txt:        wanting to learn about the latest research on their illness, to teachers wanting to use an
 ```
-In this example, only the files that start with "pmed" were matched with grep, resulting in the one line that was output by the terminal. 
+In this example, only the files in the directory "plos" that start with "pmed" were matched with grep, resulting in the one line that was output by the terminal. Note that if multiple `--include` commands are used, then they act as an "OR" operation, looking for files that contain one or both of the specified file patterns. 
 
 
 
