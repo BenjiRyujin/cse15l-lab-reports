@@ -3,6 +3,7 @@
 **Grep command-line options**
 
 **1) `-c`**
+
 [Source: Geeksforgeeks.org grep command](https://www.geeksforgeeks.org/grep-command-in-unixlinux/#)
 
 ```
