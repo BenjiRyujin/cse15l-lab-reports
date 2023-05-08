@@ -65,7 +65,7 @@ benjiryujin@MacBook-Pro-90 biomed % grep -i "DNA" * | wc -l
 
 Both of the outputs end with the same high number because the `-i` option allows us to search through all the files in the "biomed" directory and match lines that have "dna", regardless of lowercase or uppercase conditions. 
 
-**3) `-w'**
+**3) `-w`**
 
 [Source: Geeksforgeeks.org grep command](https://www.geeksforgeeks.org/grep-command-in-unixlinux/#)
 
