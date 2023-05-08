@@ -2,8 +2,13 @@
 
 **Grep command-line options**
 
-**1) -c**
+**1) `-c`**
 
-<img width="529" alt="Screenshot 2023-05-08 at 2 47 20 PM" src="https://user-images.githubusercontent.com/55765860/236943638-50ac7269-021c-424e-b906-7acc510bddf3.png">
+```
+benjiryujin@MacBook-Pro-90 biomed % grep -c "average" 1471-2407-3-16.txt      
+9
+```
 
-The "-c" grep option allows us to get a count of how many times a pattern appears in the specified file. In this case, we use the "-c" option 
+The `-c` grep option allows us to get a count of how many times a pattern appears in the specified file. In this case, we use the `-c` option in the "biomed" directory of "technical" to get the count of how many times the word "average" appears in the text file, which is 9. 
+
+
