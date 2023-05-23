@@ -63,7 +63,7 @@ Since `bash test.sh` was the last command that we ran to see the test, we can ac
 Keys pressed:
 ```
 git add ListExamples.java
-git commit -m "updated ListExamples.java"
+git commit -m "Fixed error in ListExamples.java"
 git push
 ```
 `git add` allows me to put the changes I made to ListExamples.java in a staging area of things ready to be pushed to the main repository. `git commit` allows me to finalize and save those changes into the staging area, which is the file/files that will be now be in the push. `-m` is message sent along with the commit to clarify the purpose of the commit. `git push` then pushes those changes into the repository, changing the code and fixing the error. 
