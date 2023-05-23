@@ -11,7 +11,7 @@ I logged into the remote server through `ssh`, typing in my password when prompt
 **Step 6: Running tests to see failure**
 
 
-**Step 7: Editing <ListExamples.java> to fix failing test**
+**Step 7: Editing `<ListExamples.java>` to fix failing test**
 
 
 **Step 8: Running tests to see success**
