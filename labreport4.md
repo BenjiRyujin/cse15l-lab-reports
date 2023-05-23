@@ -1,7 +1,7 @@
 **Lab Report 4**
 
 **Step 4: Log into ieng6**
-Keys pressed: ```ssh cs15lsp23is@ieng6-202.ucsd.edu `<enter>`, "password" <enter>```
+Keys pressed: `ssh cs15lsp23is@ieng6-202.ucsd.edu` `<enter>`, `"password" `<enter>``
 I logged into the remote server through `ssh`, typing in my password when prompted.
 
 
