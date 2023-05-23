@@ -1,12 +1,16 @@
 **Lab Report 4**
 
 **Step 4: Log into ieng6**
-Keys pressed: `ssh cs15lsp23is@ieng6-202.ucsd.edu <enter>, "password" <enter>`
+Keys pressed: 
+```
+ssh cs15lsp23is@ieng6-202.ucsd.edu <enter>
+"password" <enter>
+```
 I logged into the remote server through `ssh`, typing in my password when prompted.
 
 
 **Step 5: Cloning fork of repo**
-
+Keys pressed: `git clone
 
 **Step 6: Running tests to see failure**
 
