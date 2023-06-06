@@ -2,7 +2,7 @@
 
 **Original student post**
 
-**What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
+  **What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
 
 MacOs operating system, using VScode. 
 
